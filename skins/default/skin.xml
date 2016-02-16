@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skin version="0.2">
+    <title xml:lang="ko">기본 카운터 스킨</title>
+    <title xml:lang="en">Default Counter Skin </title>
+    <description xml:lang="ko">member_counter 의 기본 스킨</description>
+    <description xml:lang="en">Default skin of member_counter</description
+    <version>1.0</version>
+    <date>2016-02-16</date>
+    <link>http://www.upgle.com/</link>
+    <author email_address="admin@upgle.com" link="http://www.upgle.com/">
+        <name xml:lang="ko">UPGLE</name>
+        <name xml:lang="en">UPGLE</name>
+    </author>
+</skin>

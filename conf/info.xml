@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget version="0.2">
+    <title xml:lang="ko">멤버 카운터 위젯</title>
+    <description xml:lang="ko">
+        멤버 카운트 위젯
+    </description>
+    <version>1.0</version>
+    <date>2016-02-16</date>
+    <author email_address="admin@upgle.com" link="http://www.upgle.com/">
+        <name xml:lang="ko">UPGLE</name>
+    </author>
+</widget>
